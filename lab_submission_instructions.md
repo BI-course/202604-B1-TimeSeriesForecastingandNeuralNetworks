@@ -10,11 +10,13 @@
 
 **Member 1**
 
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Details**                                                                                        | **Comment**       |
+|:---------------------------------------------------------------------------------------------------|:------------------|
+| **Student ID:**                                                                                    | 148396            |
+| **Name:**                                                                                          | Ida Aluso Masheti |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |        I set up the repository and environment, chose and downloaded the MSFT data (17 November 2026), and recorded the data quality report. In Notebook 2, I ran the ADF and KPSS tests and showed that MSFT’s closing price is non-stationary while its log return is stationary. In Notebook 3, I produced the model comparison against the naive forecast with the Diebold-Mariano test. In Notebook 4, I built the predictor table, ran the look-ahead tests and set up the walk-forward folds. I also managed the Git workflow for the team.
+
+What I learned: a model has to be judged against the naive forecast, and in our tests none of the classical models beat it significantly. I also learned that a single leaky feature can lift R² from −0.06 to 0.79, so a result that looks very good should be checked for look-ahead bias first.          |
 
 **Member 2**
 
