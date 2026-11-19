@@ -31,10 +31,9 @@
 
 | Date            | Move | Likely cause |
 |:----------------|-----:|:-------------|
-| [date]          | [value] | [to be confirmed by Member 2] |
-| 2015-04-24      | 0.104523| |
-| 2015-10-23      | 0.100771| |
-| 2020-03-13      | 0.142169| |
-| 2020-03-16      | -0.147390| |
-| 2025-04-09     | 0.101337| |
-| 2026-07-30     | 0.155067| |
+| 2015-04-24      | 0.104523 | Earnings beat, fiscal Q3 2015 (MSFT-specific) |
+| 2015-10-23      | 0.100771 | Earnings beat, fiscal Q1 2016 (MSFT-specific) |
+| 2020-03-13      | 0.142169 | Market-wide rebound after the US national emergency declaration (COVID-19) |
+| 2020-03-16      | -0.147390 | Market-wide COVID-19 sell-off |
+| 2025-04-09      | 0.101337 | Market-wide rally after the 90-day US tariff pause |
+| 2026-07-30      | 0.155067 | Earnings and Azure/AI results, fiscal Q4 2026 (MSFT-specific) |
