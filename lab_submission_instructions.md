@@ -30,9 +30,9 @@ What I learned: a model has to be judged against the naive forecast, and in our 
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    | 170160      |
+| **Name:**                                                                                          | Kibiru Collins Kariuki |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** | In Notebook 1, I created and interpreted candlestick charts for the recent MSFT period, the April 2025 tariff shock and the COVID-19 crash, and reviewed the full-history price/volume chart and rebased predictors. In Notebook 2, I examined the seasonal decomposition and weekday returns. In Notebook 3, I selected an ARIMA order using AIC on the initial training block and interpreted the walk-forward results and residual diagnostics. In Notebook 4, I evaluated Ridge and gradient boosting against the naive forecast using walk-forward validation and the Diebold-Mariano test.<br><br>**What I learned:** Seasonality and weekday effects were small or uncertain in this MSFT sample. The ARIMA and machine-learning models did not significantly beat the naive forecast, which taught me to rely on honest out-of-sample evaluation and statistical evidence rather than model complexity or an attractive chart. |
 
 **Member 4**
 
