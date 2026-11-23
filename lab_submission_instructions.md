@@ -44,11 +44,13 @@ What I learned: a model has to be judged against the naive forecast, and in our 
 
 **Member 5**
 
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Details**                                                                                        | **Comment**            |
+|:---------------------------------------------------------------------------------------------------|:-----------------------|
+| **Student ID:**                                                                                    | 169643                 |
+| **Name:**                                                                                          | CHARLES KABUGA MURIUKI |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |     I explained the predictors and the same-day correlation heatmap for MSFT in Notebook 1, and showed with simulations, gold and Brent crude why we regress changes rather than price levels in Notebook 2. In Notebook 3, I showed why the ARIMA forecast only looks perfect on a chart, and that the 63-day interval grows roughly with the square root of the horizon. In Notebook 4, I interpreted permutation importance for Ridge and gradient boosting and checked the quantile intervals' coverage (76.3% against a target of 80%).
+
+What I learned: a forecast must be judged against the naive forecast, not by how it looks on a chart, and a model that seems confident can still be slightly too sure of itself.                   |
 
 ## Scenario
 
