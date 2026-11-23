@@ -46,9 +46,11 @@ What I learned: a model has to be judged against the naive forecast, and in our 
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |   157608    |
+| **Name:**                                                                                          |   Bridgette Nyangara Juma |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |   I set up the project environment on my laptop and fixed the install problems, including the Windows long-path error that blocked TensorFlow. In Notebook 3, I wrote a SARIMA(1,0,0)(1,0,0,5) walk-forward function and compared it with ARMA(1,0) and the naive forecast. I merged the members' branches into main with Git and pushed the result to the team repository. I learned that a forecast must be tested against the naive forecast, not judged from a chart.  |
+
+**Member 6**
 
 ## Scenario
 
