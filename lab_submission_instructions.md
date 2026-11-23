@@ -36,11 +36,11 @@ What I learned: a model has to be judged against the naive forecast, and in our 
 
 **Member 4**
 
-| **Details**                                                                                        | **Comment**         |
-|:---------------------------------------------------------------------------------------------------|:--------------------|
-| **Student ID:**                                                                                    | 169007              |
-| **Name:**                                                                                          | Mutungi Brian Kioko |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** | Completed Notebooks 1 through 4 for MSFT. This included analyzing return distributions (fat tails), checking stationarity and autocorrelation (ACF/Ljung-Box), running ARMAX models with proper lags to avoid look-ahead bias, and performing a feature ablation study using Ridge and Gradient Boosting.                    |
+| **Details**                                                                                        | **Comment** |
+|:---------------------------------------------------------------------------------------------------|:------------|
+| **Student ID:**                                                                                    |             |
+| **Name:**                                                                                          |             |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
 
 **Member 5**
 
